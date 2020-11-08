@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Module_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/Module_Extended.lib)(options "")(descr ""))
+)
